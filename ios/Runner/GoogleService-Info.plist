@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>998343576751-uppl4dg0lulk4g8hvivjhtkgr0p8f653.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.998343576751-uppl4dg0lulk4g8hvivjhtkgr0p8f653</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3vkQ4DsxG6c7CzxaF6e9l7pr3Kug06gY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>998343576751</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ssafyMascot</string>
+	<key>PROJECT_ID</key>
+	<string>ssafy-mascot</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ssafy-mascot.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:998343576751:ios:c6672eb68b715eaafcd85a</string>
+</dict>
+</plist>
